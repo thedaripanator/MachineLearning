@@ -106,8 +106,8 @@ n = X_train.shape[1]
 initial_w = np.zeros(n)
 initial_b = 0
 
-alpha = 0.01
-iterations = 5000
+alpha = 0.03
+iterations = 1000
 
 # -----------------------------
 # 7 Initial Cost (w=0, b=0)
